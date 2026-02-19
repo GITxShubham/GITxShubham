@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 ABOUT ME
 - 🎓 B.Tech Student  
-- 💻 Strong in **C++**
+- 💻 Strong in **C++**  
 - 🧠 DSA Daily  
 - 🌐 Frontend Developer  
 - 🎯 Goal → Software Engineer  
@@ -24,9 +24,11 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python" height="65"/>
 </p>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" height="65"/>
 </p>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="65"/>
 </p>
@@ -64,15 +66,19 @@
 
 ## 🌐 CONNECT
 <p align="center">
+
 <a href="https://github.com/GITxShubham">
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
+
 <a href="https://www.linkedin.com/in/shubham-singh-2a9948329/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
+
 <a href="https://leetcode.com/u/LogicXShubham/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="60"/>
 </a>
+
 </p>
 
 ---
@@ -81,14 +87,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=GITxShubham&style=for-the-badge&color=blueviolet"/>
 </p>
-
----
-
-<div align="center">
-
-## 🚀 KEEP CODING • KEEP GROWING
-
-</div>
 
 ---
 
