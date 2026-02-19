@@ -40,6 +40,13 @@
 
 ---
 
+## 🧠 GFG Practice
+<p align="center">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=codexshubham1&theme=dark" />
+</p>
+
+---
+
 ## 📊 GITHUB STATS
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GITxShubham&show_icons=true&theme=tokyonight" height="210"/>
@@ -74,6 +81,14 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=GITxShubham&style=for-the-badge&color=blueviolet"/>
 </p>
+
+---
+
+<div align="center">
+
+## 🚀 KEEP CODING • KEEP GROWING
+
+</div>
 
 ---
 
